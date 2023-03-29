@@ -1,0 +1,26 @@
+{
+  "foo": 4,
+  "bar": false,
+  "gfh": 87,
+  "tar": {
+    "bar1": -1.89,
+    "mar": {
+      "mar1": "null"
+    }
+  },
+  "arr": [1, 1, false, true, false, true, false],
+  "myArr": [
+    {
+      "m1": 1,
+      "m2": 2
+    },
+    {
+      "m2": 2,
+      "m1": 1
+    }
+  ],
+  "preArr": [
+    1, 2, "abc", 1
+  ],
+  "myString": "def"
+}
